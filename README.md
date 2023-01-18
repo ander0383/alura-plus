@@ -1,3 +1,2 @@
-# Site Teste - Alura Plus
-<h1 align="center">ALura Plus</h1>
-Site desenvolvido em HTML + CSS | Nível: Iniciante | Instituição: Alura
+<h1 align="center">Alura Plus</h1>
+<p>Site desenvolvido em HTML + CSS | Nível: Iniciante | Instituição: Alura</p>
